@@ -12,5 +12,11 @@
       "content": "Wow such content!",
       "username": "zero_cool"
     }
+  ],
+  "login" : [
+    {
+      "success": "true",
+      "mensage": "Login efetuado com sucesso!"
+    }
   ]
 }
